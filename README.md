@@ -1,3 +1,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemann01&layout=compact&hide=html,batchfile&theme=algolia&border_radius=20)](https://github.com/aemann01/github-readme-stats)
 
-<a href="https://orcid.org/0000-0001-7170-6017" title="ORCID"><i class="ai ai-orcid ai-3x" style="font-size:25px;padding-left:5px;padding-right:5px"></i></a>
+<a href="https://aemann01.github.io/assets/pdf/Mann_CV.pdf" title="Download CV"><i class="ai ai-cv" aria-hidden="true" style="font-size:25px;padding-left:5px;padding-right:5px"></i></a>
