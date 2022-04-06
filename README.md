@@ -2,7 +2,7 @@
 
 ### I'm a biological anthropologist interested in how microbes can help us better understand human evolution, health, history, behavior, and diversity. Currently I'm working on the impact of HIV on the oral microbiome and oral health as a postdoctoral research associate at Clemson University.
 
-*Illustration created by the very talented Petra Korlevic (https://twitter.com/petrathepostdoc)*
+*Illustration by the very talented Petra Korlevic (https://twitter.com/petrathepostdoc)*
 
 #### :point_down: Connect with me
 
