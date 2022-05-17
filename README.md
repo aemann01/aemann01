@@ -11,6 +11,21 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemann01&layout=compact&hide=html,jupyter%20notebook,batchfile&theme=algolia&border_radius=20)](https://github.com/aemann01/github-readme-stats)
 
 ------------
+
+##### Skills:
+<img align="left" alt="bash" src="https://img.shields.io/badge/Bash%20-171A21.svg?&style=for-the-badge&logo=gnubash&logoColor=white" />
+<img align="left" alt="python" src="https://img.shields.io/badge/Python%20-171A21.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<img align="left" alt="r" src="https://img.shields.io/badge/R%20-171A21.svg?&style=for-the-badge&logo=r&logoColor=white" />
+<img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL%20-171A21.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="left" alt="linux" src="https://img.shields.io/badge/Linux%20-171A21.svg?&style=for-the-badge&logo=linux&logoColor=white" />
+<img align="left" alt="git" src="https://img.shields.io/badge/Git%20-171A21.svg?&style=for-the-badge&logo=git&logoColor=white" />
+<img align="left" alt="jupyter" src="https://img.shields.io/badge/Jupyter%20-171A21.svg?&style=for-the-badge&logo=jupyter&logoColor=white" />
+<img align="left" alt="latex" src="https://img.shields.io/badge/Latex%20-171A21.svg?&style=for-the-badge&logo=latex&logoColor=white" />
+
+
+<br>
+
+------------
 ## Currently I'm working on:
 
 <a href="https://github.com/aemann01/domhain/tree/main/2022-HIV_oral_microbiome">
