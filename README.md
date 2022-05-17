@@ -19,3 +19,8 @@
 <a href="https://github.com/aemann01/ads_plaque">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aemann01&repo=ads_plaque" />
 </a>
+<br>
+</br>
+<a href="https://github.com/aemann01/necrobiome">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aemann01&repo=necrobiome" />
+</a>
