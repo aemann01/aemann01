@@ -12,7 +12,7 @@
 
 ------------
 
-##### Skills:
+#### Skills:
 <img align="left" alt="bash" src="https://img.shields.io/badge/Bash%20-171A21.svg?&style=for-the-badge&logo=gnubash&logoColor=white" />
 <img align="left" alt="python" src="https://img.shields.io/badge/Python%20-171A21.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img align="left" alt="r" src="https://img.shields.io/badge/R%20-171A21.svg?&style=for-the-badge&logo=r&logoColor=white" />
