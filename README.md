@@ -25,7 +25,7 @@
 <br>
 
 ------------
-## Currently I'm working on:
+## Cool things I'm working on now:
 
 <a href="https://github.com/aemann01/domhain/tree/main/2022-HIV_oral_microbiome">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aemann01&repo=domhain" />
