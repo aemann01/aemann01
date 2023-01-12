@@ -7,7 +7,7 @@
 
 [<img src='https://github.com/aemann01/aemann01/blob/main/icons8-linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/allison-mann-70bab816a/)  [<img src='https://github.com/aemann01/aemann01/blob/main/icons8-website-48.png' alt='website' height='40'>](https://aemann01.github.io/) [<img src='https://github.com/aemann01/aemann01/blob/main/icons8-google-scholar-48.png' alt='googlescholar' height='40'>](https://scholar.google.com/citations?user=BcHAnkwAAAAJ&hl)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemann01&layout=compact&hide=html,jupyter%20notebook,batchfile&theme=algolia&border_radius=20)](https://github.com/aemann01/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aemann01&layout=compact&hide=html,jupyter%20notebook,batchfile&theme=algolia&border_radius=20)](https://github.com/aemann01/github-readme-stats)
 
 ------------
 
@@ -27,12 +27,20 @@
 ------------
 ## Cool things I'm working on now:
 
-<a href="https://github.com/aemann01/domhain/tree/main/2022-HIV_oral_microbiome">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aemann01&repo=domhain" />
-</a>
-<a href="https://github.com/aemann01/ads_plaque">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aemann01&repo=ads_plaque" />
-</a>
-<br>
-</br>
+
+
+<p align="center">
+	<a href="https://github.com/aemann01/ads_plaque">
+		<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aemann01&repo=ads_plaque&bg_color=010101&title_color=00D13B&hide_border=true&icon_color=00D13B&show_icons=true&text_color=ffffff">
+	</a>
+  <a href="https://github.com/aemann01/domhain/tree/main/2022-HIV_oral_microbiome">
+	<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aemann01&repo=domhain&bg_color=010101&title_color=00D13B&hide_border=true&icon_color=00D13B&show_icons=true&text_color=ffffff">
+	</a>
+</p>
+
+  
+  
+  
+  
+
 
