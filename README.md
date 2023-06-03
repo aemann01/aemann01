@@ -1,7 +1,7 @@
 ![Banner](https://github.com/aemann01/aemann01/blob/main/banner.png)
 <sup>*Illustration by the very talented Petra Korlevic (https://twitter.com/petrathepostdoc)*
 
-### I'm a biological anthropologist interested in how microbes can help us better understand human evolution, health, history, behavior, and diversity. Currently I'm working on the impact of HIV on the oral microbiome and oral health as a postdoctoral research associate at Clemson University.
+### I'm a biological anthropologist interested in how microbes can help us better understand human evolution, health, history, behavior, and diversity. Currently I'm working on the impact of HIV on the oral microbiome and oral health as a postdoctoral research fellow at Clemson University.
 
 #### :point_down: Connect with me
 
